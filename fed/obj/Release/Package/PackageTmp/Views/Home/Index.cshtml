@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index++</h2>
+URA URA URA URA URA
+
+
+@foreach (var val in ViewBag.list)
+{
+    @val.name;
+    <span>&nbsp;</span>
+    @val.age;
+    <br />
+}
+++++****++-@ViewBag.Fed-@ViewBag.Title-@ViewData["Head"]-
+
+    @*@ViewBag.Siteuser_.name; @ViewBag.Siteuser_.age;*@
+
+@{ var myMessage = "Hello World"; }
+
+<!-- Inline expression or variable -->
+<p>The value of myMessage &nbsp; is: @myMessage</p>
+
+<!--	Multi-statement block -->
+@{
+    var greeting = "Welcome to our site!";
+    var weekDay = DateTime.Now.DayOfWeek;
+    var greetingMessage = greeting + " Here in Huston it is: " + weekDay;
+}
+
+<p>The greeting is: @greetingMessage</p>
