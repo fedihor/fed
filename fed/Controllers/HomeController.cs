@@ -25,7 +25,7 @@ namespace fed.Controllers
 
             using (FedContext db = new FedContext())
             {
-                db.Siteusers.Add(new Siteuser { name = "Valia", age = 59 });
+                db.Siteusers.Add(new Siteuser { name = "Seriozha", age = 34 });
                 db.SaveChanges();
 
                 ViewBag.list = db.Siteusers.ToList();
@@ -38,7 +38,7 @@ namespace fed.Controllers
                 //                    where siteuser.id == 3
                 //                    select siteuser).First();
                 ViewBag.Fed = "Fed Ihor";
-                ViewData["Head"] = "Привет мир++++++++++++++++++++!";
+                ViewData["Head"] = "Привет мир!";
 
 
 
