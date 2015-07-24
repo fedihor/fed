@@ -38,7 +38,7 @@ namespace fed.Controllers
                 //                    where siteuser.id == 3
                 //                    select siteuser).First();
                 ViewBag.Fed = "Fed Ihor";
-                ViewData["Head"] = "Привет мир!";
+                ViewData["Head"] = "Привіт світ!";
 
 
 
