@@ -41,7 +41,7 @@ namespace fed.Controllers
                 ViewData["Head"] = "Привіт світ!";
 
 
-
+                Console.WriteLine("Hello world!");
 
                 
 

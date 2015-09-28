@@ -14,16 +14,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/20/2015 22:11:26</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>07/22/2015 20:28:59</publishTime>
+      <publishTime>09/19/2015 20:43:53</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>07/22/2015 20:28:58</publishTime>
+      <publishTime>09/19/2015 20:43:52</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>07/20/2015 22:11:00</publishTime>
     </File>
     <File Include="bin/fed.dll">
-      <publishTime>07/22/2015 20:28:50</publishTime>
+      <publishTime>09/19/2015 17:26:09</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>07/20/2015 22:11:18</publishTime>
@@ -67,8 +67,53 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/WebGrease.dll">
       <publishTime>07/20/2015 22:11:27</publishTime>
     </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>07/30/2015 22:06:50</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>07/30/2015 22:06:50</publishTime>
+    </File>
+    <File Include="Content/fonts/Open Sans Condensed  Light.ttf">
+      <publishTime>02/10/2012 15:44:36</publishTime>
+    </File>
+    <File Include="Content/images/body1.jpg">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/images/body2.jpg">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/images/body3.jpg">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/images/body4.jpg">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/images/body5.JPG">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/images/gt_favicon.png">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/magister.css">
+      <publishTime>07/31/2015 22:12:04</publishTime>
+    </File>
+    <File Include="Content/screenshots/sshot1.jpg">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/screenshots/sshot2.jpg">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/screenshots/sshot3.jpg">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/screenshots/sshot4.jpg">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Content/screenshots/sshot5.jpg">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
     <File Include="Content/Site.css">
-      <publishTime>07/20/2015 22:10:51</publishTime>
+      <publishTime>07/31/2015 22:10:55</publishTime>
     </File>
     <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
       <publishTime>07/20/2015 22:11:17</publishTime>
@@ -233,67 +278,100 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/20/2015 22:11:17</publishTime>
     </File>
     <File Include="Controllers/HomeController.cs">
-      <publishTime>07/20/2015 22:39:55</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>07/20/2015 22:10:51</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>07/20/2015 22:11:27</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>07/22/2015 20:28:56</publishTime>
+      <publishTime>09/19/2015 20:43:45</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>07/29/2015 22:21:41</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>07/29/2015 22:21:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.intellisense.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>07/29/2015 22:21:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>07/29/2015 22:21:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>07/29/2015 22:21:42</publishTime>
     </File>
     <File Include="Scripts/jquery-1.8.2.js">
-      <publishTime>07/20/2015 22:11:12</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/jquery-1.8.2.min.js">
-      <publishTime>07/20/2015 22:11:12</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/jquery-ui-1.8.24.js">
-      <publishTime>07/20/2015 22:11:16</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/jquery-ui-1.8.24.min.js">
-      <publishTime>07/20/2015 22:11:16</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/jquery.unobtrusive-ajax.js">
-      <publishTime>07/20/2015 22:11:18</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/jquery.unobtrusive-ajax.min.js">
-      <publishTime>07/20/2015 22:11:18</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate-vsdoc.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.js">
-      <publishTime>07/20/2015 22:11:15</publishTime>
+      <publishTime>07/29/2015 22:21:53</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.min.js">
-      <publishTime>07/20/2015 22:11:15</publishTime>
+      <publishTime>07/29/2015 22:21:53</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.js">
-      <publishTime>07/20/2015 22:11:17</publishTime>
+      <publishTime>07/29/2015 22:21:54</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.min.js">
-      <publishTime>07/20/2015 22:11:17</publishTime>
+      <publishTime>07/29/2015 22:21:54</publishTime>
+    </File>
+    <File Include="Scripts/js/magister.js">
+      <publishTime>07/30/2015 22:06:51</publishTime>
+    </File>
+    <File Include="Scripts/js/modernizr.custom.72241.js">
+      <publishTime>07/30/2015 22:06:51</publishTime>
     </File>
     <File Include="Scripts/knockout-2.2.0.debug.js">
-      <publishTime>07/20/2015 22:11:27</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/knockout-2.2.0.js">
-      <publishTime>07/20/2015 22:11:27</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
-      <publishTime>07/20/2015 22:11:18</publishTime>
+      <publishTime>07/29/2015 22:21:51</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>07/29/2015 22:21:53</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>07/29/2015 22:21:53</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>07/20/2015 22:11:18</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>07/22/2015 20:27:51</publishTime>
+      <publishTime>09/19/2015 17:25:50</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>07/20/2015 22:10:51</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>07/20/2015 22:10:51</publishTime>
+      <publishTime>07/31/2015 21:01:08</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>07/20/2015 22:10:51</publishTime>
@@ -302,7 +380,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/20/2015 22:10:51</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/21/2015 22:22:42</publishTime>
+      <publishTime>07/30/2015 23:32:02</publishTime>
     </File>
   </ItemGroup>
 </Project>
